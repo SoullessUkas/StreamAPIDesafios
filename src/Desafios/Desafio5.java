@@ -3,7 +3,7 @@ package Desafios;
 import java.util.Arrays;
 import java.util.List;
 import java.util.OptionalDouble;
-import java.util.stream.Collectors;
+
 
 public class Desafio5 {
     public static void main(String[] args) {
